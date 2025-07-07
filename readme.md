@@ -10,7 +10,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ваш_пользователь/eurobike_scraper.git
+git clone https://github.com/Rjynth/scraper_for_stuff
 cd eurobike_scraper
 python3 -m venv venv
 source venv/bin/activate  # для Linux/macOS
